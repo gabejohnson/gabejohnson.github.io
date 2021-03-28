@@ -1,3 +1,9 @@
 theme: jekyll-theme-hacker
 title: Gabe's links
 description: Links to my project(s)
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+include:
+  - README.md
