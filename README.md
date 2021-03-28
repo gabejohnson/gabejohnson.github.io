@@ -1,6 +1,4 @@
-## Gabe Links
-
-[dungeon crawler]("{{'dungeon-crawler/index.html' | relative_url}}")
+[dungeon crawler](dungeon-crawler/index.html)
 
 <!--
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
