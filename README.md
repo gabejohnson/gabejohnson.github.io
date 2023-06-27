@@ -1,4 +1,5 @@
 [dungeon crawler](dungeon-crawler/index.html)
+[cheese classifier](which-cheese-am-i/index.html)
 
 <!--
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
